@@ -1,0 +1,58 @@
+/* variables */
+/* Navbar */
+.navbar .nav-link {
+  color: white !important;
+}
+.navbar .navbar-collapse.show .form-control {
+  background: white !important;
+}
+.navbar img#profile {
+  background-color: white !important;
+}
+.navbar #icone_busca {
+  color: white !important;
+}
+
+/* Slider */
+.slide-2 .carousel {
+  background-color: white !important;
+}
+
+.slide-3 .carousel {
+  background-color: white !important;
+}
+
+/* Programming */
+#programming {
+  color: white !important;
+}
+#programming h1 {
+  color: white !important;
+}
+
+/* Contact */
+#contact input {
+  color: white !important;
+}
+#contact input::placeholder {
+  color: white !important;
+}
+#contact textarea {
+  color: white !important;
+}
+#contact textarea::placeholder {
+  color: white !important;
+}
+
+/* Modelos */
+#modelos {
+  color: white !important;
+}
+#modelos h6 {
+  color: white !important;
+}
+#modelos .btn {
+  background: white !important;
+}
+
+/*# sourceMappingURL=stylo.css.map */

@@ -1,0 +1,67 @@
+/* variables */
+
+$color-font-primary: rgb(255, 255, 255);
+
+/* Navbar */
+
+.navbar {
+    .nav-link {
+        color: $color-font-primary !important;
+    }
+    .navbar-collapse.show .form-control {
+        background: $color-font-primary !important;
+    }
+    img#profile {
+        background-color: $color-font-primary !important;
+    }
+    #icone_busca {
+        color: $color-font-primary !important;
+    }
+
+}
+
+/* Slider */
+.slide-2 .carousel {
+    background-color: $color-font-primary !important;
+}
+.slide-3 .carousel {
+    background-color: $color-font-primary !important;
+}
+
+/* Programming */
+#programming {
+    color: $color-font-primary !important;
+
+    h1 {
+        color: $color-font-primary !important;
+    }
+}
+
+/* Contact */
+#contact {
+    input {
+        color: $color-font-primary !important;
+        &::placeholder {
+            color: $color-font-primary !important;
+        }
+    }
+    textarea {
+        color: $color-font-primary !important;
+        &::placeholder {
+            color: $color-font-primary !important;
+        }
+    }
+
+}
+
+/* Modelos */
+#modelos {
+    color: $color-font-primary !important;
+
+    h6 {
+        color: $color-font-primary !important;
+    }
+    .btn {
+        background: $color-font-primary !important;
+    }
+}
